@@ -46,7 +46,9 @@ Aqui estão alguns exemplos de como usar o programa:
 
 - Escolha a opção "Apostar em par ou ímpar" e digite um número inteiro. Se for um número par, você ganha R$ 100,00.
 
-- A verssão usada do JDK foi a corretto-17.
+  ## Versão JDK e Bibliotecas Usadas
+
+- A versão usada do JDK foi a corretto-17.
 
 - As bibliotecas usadas foram:
 - java.util.Random: usada para criar um objeto que gera números aleatórios para simular o sorteio dos números ou letras premiados.

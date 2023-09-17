@@ -46,7 +46,7 @@ Aqui estão alguns exemplos de como usar o programa:
 
 - Escolha a opção "Apostar em par ou ímpar" e digite um número inteiro. Se for um número par, você ganha R$ 100,00.
 
-  ## Versão JDK e Bibliotecas Usadas
+## Versão JDK e Bibliotecas Usadas
 
 - A versão usada do JDK foi a corretto-17.
 
